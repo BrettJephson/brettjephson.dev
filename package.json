@@ -3,7 +3,6 @@
     "version": "0.0.1",
     "private": true,
     "engines": {
-        "pnpm": "8.15.8",
         "node": "20.9.0"
     },
     "scripts": {
